@@ -1,8 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <stack>
-#include <vector>
 #include <iterator>
 
 char data[30000];
