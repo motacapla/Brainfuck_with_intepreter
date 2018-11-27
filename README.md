@@ -1,2 +1,5 @@
-tikeda:Brainfuck tikeda$ g++ --std=c++2a cppinterpreter.cpp -o interpret
-tikeda:Brainfuck tikeda$ ./interpret HelloWorld.bf
+# How to use
+```
+$ g++ --std=c++2a cppinterpreter.cpp -o interpret
+$ ./interpret HelloWorld.bf
+```
